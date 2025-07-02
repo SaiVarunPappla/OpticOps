@@ -20,6 +20,14 @@ OpticOps/
 
 │
 
+├── input/ # Directory containing all input .jpg images
+
+    ├── train_data/ # Directory containing all input .jpg images
+    
+    ├── labels.csv # CSV file: image_name,label
+
+├── saved_models/ # Output directory for saved models
+
 ├── train.py # Training script with model saving
 
 ├── model.py # CNN model with CTC output
@@ -30,11 +38,6 @@ OpticOps/
 
 ├── dataset.py # Custom Dataset class for image/label loading
 
-├── saved_models/ # Output directory for saved models
-
-├── labels.csv # CSV file: image_name,label
-
-├── images/ # Directory containing all input .jpg images
 
 ---
 
