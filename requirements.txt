@@ -6,3 +6,4 @@ Pillow
 albumentations
 scikit-learn
 joblib
+tqdm
