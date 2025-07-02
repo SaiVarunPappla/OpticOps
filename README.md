@@ -22,9 +22,9 @@ OpticOps/
 
 ├── input/ # Directory containing all input .jpg images
 
-&nbsp;&nbsp;&nbsp;&nbsp;├── train_data/ # Directory containing all input .jpg images
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── train_data/ # Directory containing all input .jpg images
     
-&nbsp;&nbsp;&nbsp;&nbsp;├── labels.csv # CSV file: image_name,label
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── labels.csv # CSV file: image_name,label
 
 ├── saved_models/ # Output directory for saved models
 
