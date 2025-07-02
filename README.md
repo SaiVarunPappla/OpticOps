@@ -36,12 +36,16 @@ OpticOps/
 
 ├── images/ # Directory containing all input .jpg images
 
-
+---
 
 ## 🤝 Contributing
 
 If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
+---
+
 ## 📄 License
 
 Licensed under the MIT License.
+
+---
