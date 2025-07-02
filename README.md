@@ -17,15 +17,25 @@
 ## 🗂️ Project Structure
 
 OpticOps/
-│<br>
-├── train.py # Training script with model saving<br>
-├── model.py # CNN model with CTC output<br>
-├── config.py # Configuration constants (paths, hyperparameters)<br>
-├── engine.py # Train and evaluation logic<br>
-├── dataset.py # Custom Dataset class for image/label loading<br>
-├── saved_models/ # Output directory for saved models<br>
-├── labels.csv # CSV file: image_name,label<br>
-├── images/ # Directory containing all input .jpg images<br>
+
+│
+
+├── train.py # Training script with model saving
+
+├── model.py # CNN model with CTC output
+
+├── config.py # Configuration constants (paths, hyperparameters)
+
+├── engine.py # Train and evaluation logic
+
+├── dataset.py # Custom Dataset class for image/label loading
+
+├── saved_models/ # Output directory for saved models
+
+├── labels.csv # CSV file: image_name,label
+
+├── images/ # Directory containing all input .jpg images
+
 
 
 
