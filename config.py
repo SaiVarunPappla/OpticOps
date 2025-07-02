@@ -1,0 +1,9 @@
+DATA_DIR = "input/train_data/"
+LABEL_FILE = "input/labels.csv"
+MODEL_SAVE_DIR = "models"
+BATCH_SIZE = 8
+IMAGE_WIDTH = 300
+IMAGE_HEIGHT = 75
+NUM_WORKERS = 8
+EPOCHS = 100
+DEVICE = "cuda"
